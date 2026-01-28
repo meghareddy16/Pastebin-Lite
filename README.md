@@ -1,5 +1,6 @@
 # Pastebin Lite
 
+<<<<<<< HEAD
 Pastebin Lite is a small Pastebin-like web application that allows users to create, share, and view text pastes using a unique URL. Pastes can optionally expire based on time (TTL) or number of views.
 
 ## Features
@@ -15,6 +16,7 @@ Pastebin Lite is a small Pastebin-like web application that allows users to crea
 - PostgreSQL (Neon)
 - Prisma ORM
 - Deployed on Vercel
+<<<<<<< HEAD
 
 ## Persistence Layer
 The application uses **PostgreSQL (Neon)** as the persistence layer.  
